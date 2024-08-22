@@ -29,6 +29,5 @@
 <br>
 
 <h2>Lançamentos</h2>
-<img src ="public/assets/images/assets-nikel/lancamentos.png" alt="lançamentos">
-<img src ="public/assets/images/assets-nikel/add-lancamentos-lancamentos.png" alt="lançamentos lançamentos">
+<img src ="public/assets/images/assets-nikel/image.png" alt="lançamentos">
 <br>
