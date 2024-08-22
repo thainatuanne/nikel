@@ -25,8 +25,10 @@
 
 <h2>Home</h2>
 <img src ="public/assets/images/assets-nikel/home.png" alt="home">
+<img src ="public/assets/images/assets-nikel/add-lancamentos-home.png" alt="home lançamentos">
 <br>
 
 <h2>Lançamentos</h2>
 <img src ="public/assets/images/assets-nikel/lancamentos.png" alt="lançamentos">
+<img src ="public/assets/images/assets-nikel/add-lancamentos-lancamentos.png" alt="lançamentos lançamentos">
 <br>
